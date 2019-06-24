@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "first stream",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": "haha",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "uff u have to deal with history thing!!",
+      "userId": "112603768886024631730",
+      "id": 6
+    },
+    {
+      "title": "refactoring test",
+      "description": "this request was made by patch request!!",
+      "userId": "112603768886024631730",
+      "id": 7
+    },
+    {
+      "title": "refactoring test 2",
+      "description": "successful trial",
+      "id": 8
+    }
+  ]
+}
